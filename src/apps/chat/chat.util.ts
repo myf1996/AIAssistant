@@ -7,8 +7,6 @@ import { Role } from './dto/role.enum';
 
 const { Configuration, OpenAIApi } = require('openai');
 
-const OPEN_AI_SECRET_KEY =
-  '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';
 const configuration = new Configuration({
   apiKey: systemConfig.openai.api_key,
 });
