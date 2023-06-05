@@ -1,4 +1,5 @@
 <h1 align="center">AI Assistant Powered by OpenAI</h1>
+
 ## Description
 
 The AI Assistant Powered by OpenAI is an intelligent chat application that utilizes the capabilities of the OpenAI API. The assistant interacts with users by receiving input, storing the conversation history, and sending it to the OpenAI API to generate responses. It provides a seamless chat experience where the assistant builds on previous conversations to provide contextually relevant and accurate responses.
